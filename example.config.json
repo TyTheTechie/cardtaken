@@ -1,0 +1,7 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "guildId": "TARGET_GUILD_ID",
+    "channelId": "TARGET_CHANNEL_ID",
+    "aniId": "TARGET_BOT_ID"
+  }
+  
